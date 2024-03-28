@@ -1,15 +1,13 @@
-Here's the organized content in Markdown format suitable for a GitHub `README.md`:
-
-```markdown
 # Interaction with the Database using SQLModel
 
 ## SQL Inline Code Example
 
 Executing a simple SQL query to fetch all data from the `hero` table:
 
-```sql
+```
 SELECT * FROM hero;
 ```
+
 
 This query retrieves the entire `hero` table.
 
@@ -70,5 +68,3 @@ def map_lower_to_upper(value: str):
 ```
 
 This function maps lowercase letters to uppercase, illustrating the basic idea of a mapping function.
-```
-
